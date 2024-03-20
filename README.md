@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi Everyone 👋
 
-Perkenalkan nama saya **Muhamad Ahyar Yogi Wibisono**. Saya adalah seorang mahasiswa informatika. saya memiliki keterampilan pada bidang Web Development pada Front End. Saya masih terus belajar mengembangkan mengenai Web Development. Dan saat ini saya lulusan Studi Independen Cycle 5 di Hacktiv8 Indonesia. Dan saat ini saya tinggal di Kota Surakarta.
+Perkenalkan nama saya **Muhamad Ahyar Yogi Wibisono**. Saya adalah seorang mahasiswa informatika. Saya memiliki keterampilan pada bidang Web Development pada Front End. Saya masih terus belajar mengembangkan mengenai Web Development. Saya juga tertarik pada bidang Netwokring. Dan saat ini saya lulusan Studi Independen Cycle 5 di Hacktiv8 Indonesia. Dan saat ini saya tinggal di Kota Surakarta.
 
 ## Statistic
 <div align="center" style="padding: 0 20px;">
